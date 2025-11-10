@@ -6,20 +6,7 @@
 - 📫 Como entrar em contato comigo: Telefone:(34)997924490 / E-mail: ga911068@gmail.com
 
 ## FERRAMENTAS E TECNOLOGIAS:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" alt="Power BI"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/databricks.svg" width="40" height="40" alt="Databricks"/> <!-- Substitua a linha do Databricks por esta -->
-<span
-  role="img"
-  aria-label="Databricks"
-  title="Databricks"
-  style="
-    display:inline-block;
-    width:40px;
-    height:40px;
-    background-color:#FF3621; /* vermelho oficial */
-    -webkit-mask: url('https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/databricks.svg') no-repeat center / contain;
-    mask: url('https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/databricks.svg') no-repeat center / contain;
-  ">
-</span>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" alt="Power BI"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/databricks.svg" width="40" height="40" alt="Databricks"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/databricks.svg" width="40" height="40" alt="Databricks"/>
 
 
 ## CONTATOS:
