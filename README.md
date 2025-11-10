@@ -1,4 +1,4 @@
-# 👋 Ol-a! Bem Vindos ao meu perfil do GitHub!
+# 👋 Olá! Bem Vindos ao meu perfil do GitHub!
 ## Meu nome é Guilherme Augusto e meu nickname é "Gznn10"!, Atualmente estou cursando Engenharia da Computação no IFTM.
 - 🔭 Atualmente estou trabalhando como estagiário em Análises de Dados na Valmont. 
 - 🌱 Atualmente estou aprendendo Python, SQL, Power BI e DAX.
