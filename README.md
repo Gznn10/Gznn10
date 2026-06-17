@@ -17,6 +17,14 @@
 <a href="www.linkedin.com/in/guilherme-augusto-1b4292218" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+#👋 Hi there! Welcome to my GitHub profile!
+
+My name is Guilherme Augusto and my nickname is "Gznn10"! I am currently studying Computer Engineering at IFTM.
+
+🔭 I’m currently working as a Data Analysis Intern at Valmont.
+🌱 I’m currently learning Python, Databricks, Power BI, and DAX.
+👯 I’m looking to collaborate on Data Analysis projects.
+📫 How to reach me: Phone: +55 (34) 99792-4490 / E-mail: ga911068@gmail.com
 
 
           
